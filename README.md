@@ -27,18 +27,12 @@ The survey is anonymous so the identity of the respondents is not present.
 
 Example of a page of the survey:
 
+![survey1](https://github.com/DRBondyaleJuez/InteractiveVisualizationOfSpanishCisData/assets/98281752/b0f7a932-5e23-4246-9b2b-b21abf9feef3)
 
-<div class="image-carousel" style="  .image-carousel {
-    display: flex;
-    overflow-x: auto;
-    scroll-snap-type: x mandatory;
-  }
-  img {
-    flex: 0 0 auto;
+<div class="image-carousel" style=" display: flex; overflow-x: auto;  scroll-snap-type: x mandatory;">
+    <img style="flex: 0 0 auto;
     width: 100%;
-    scroll-snap-align: start;
-  }">
-    <img src="https://github.com/DRBondyaleJuez/InteractiveVisualizationOfSpanishCisData/assets/98281752/b0f7a932-5e23-4246-9b2b-b21abf9feef3" alt="Image 1">
+    scroll-snap-align: start;" src="https://github.com/DRBondyaleJuez/InteractiveVisualizationOfSpanishCisData/assets/98281752/b0f7a932-5e23-4246-9b2b-b21abf9feef3" alt="Image 1">
     <img src="https://github.com/DRBondyaleJuez/InteractiveVisualizationOfSpanishCisData/assets/98281752/2f126365-0d49-4631-8e1b-4973187aa37c" alt="Image 2">
     <img src="https://github.com/DRBondyaleJuez/InteractiveVisualizationOfSpanishCisData/assets/98281752/cdd1c665-4919-4f30-bdf1-475277937aa5" alt="Image 3">
     <img src="https://github.com/DRBondyaleJuez/InteractiveVisualizationOfSpanishCisData/assets/98281752/0e52d5c7-f433-412a-8f8b-65d74c846765" alt="Image 3">
@@ -77,7 +71,7 @@ The main use of the website is to explore data using Tableau dynamics graphs.
 
 The Tableau dashboard is dynamic and interactive. The information in the survey was to large for one single dashboard so it is divided amongst 4 dashboard and the user can navigate between them using the buttons in the top section.
 
-Example - Links to Sources:
+__Example - Links to Sources:__
 
 <div style="text-align: center;">
 
@@ -87,7 +81,7 @@ Example - Links to Sources:
 
 The responsiveness of the website is shown and the links at the top that either takes the user to the url source or summary of the data or download a file.
 
-Example - Dashboard Navigation and Tooltip:
+__Example - Dashboard Navigation and Tooltip:__
 
 <div style="text-align: center;">
 
@@ -97,7 +91,7 @@ Example - Dashboard Navigation and Tooltip:
 
 Navigating between the pages of the dashboard and showcasing the display of tooltip when hovering the graph portions. The tooltips usually contains information regarding that parameter, the number of respondents and the % of the total.
 
-Example - Clicking and filtering the data in current and other dashboards:
+__Example - Clicking and filtering the data in current and other dashboards:__
 
 <div style="text-align: center;">
 
