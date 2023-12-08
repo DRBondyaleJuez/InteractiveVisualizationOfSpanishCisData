@@ -28,7 +28,16 @@ The survey is anonymous so the identity of the respondents is not present.
 Example of a page of the survey:
 
 
-<div class="image-carousel">
+<div class="image-carousel" style="  .image-carousel {
+    display: flex;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+  }
+  img {
+    flex: 0 0 auto;
+    width: 100%;
+    scroll-snap-align: start;
+  }">
     <img src="https://github.com/DRBondyaleJuez/InteractiveVisualizationOfSpanishCisData/assets/98281752/b0f7a932-5e23-4246-9b2b-b21abf9feef3" alt="Image 1">
     <img src="https://github.com/DRBondyaleJuez/InteractiveVisualizationOfSpanishCisData/assets/98281752/2f126365-0d49-4631-8e1b-4973187aa37c" alt="Image 2">
     <img src="https://github.com/DRBondyaleJuez/InteractiveVisualizationOfSpanishCisData/assets/98281752/cdd1c665-4919-4f30-bdf1-475277937aa5" alt="Image 3">
