@@ -29,9 +29,14 @@ Example of a page of the survey:
 
 
 <div class="image-carousel">
-  <img src="image1.jpg" alt="Image 1">
-  <img src="image2.jpg" alt="Image 2">
-  <img src="image3.jpg" alt="Image 3">
+    <img src="https://github.com/DRBondyaleJuez/InteractiveVisualizationOfSpanishCisData/assets/98281752/b0f7a932-5e23-4246-9b2b-b21abf9feef3" alt="Image 1">
+    <img src="https://github.com/DRBondyaleJuez/InteractiveVisualizationOfSpanishCisData/assets/98281752/2f126365-0d49-4631-8e1b-4973187aa37c" alt="Image 2">
+    <img src="https://github.com/DRBondyaleJuez/InteractiveVisualizationOfSpanishCisData/assets/98281752/cdd1c665-4919-4f30-bdf1-475277937aa5" alt="Image 3">
+    <img src="https://github.com/DRBondyaleJuez/InteractiveVisualizationOfSpanishCisData/assets/98281752/0e52d5c7-f433-412a-8f8b-65d74c846765" alt="Image 3">
+    <img src="https://github.com/DRBondyaleJuez/InteractiveVisualizationOfSpanishCisData/assets/98281752/9a860aa2-e94d-4f61-830f-aac12a86c5d9" alt="Image 3">
+    <img src="assets/downloading_icons/pdf_icon.png" alt="Image 3">
+    <img src="https://github.com/DRBondyaleJuez/InteractiveVisualizationOfSpanishCisData/assets/98281752/9133fd93-b134-499d-a182-6ef018e2a561" alt="Image 3">
+    <img src="https://github.com/DRBondyaleJuez/InteractiveVisualizationOfSpanishCisData/assets/98281752/d8f06bf9-540c-4018-9278-feaebbbba6ed" alt="Image 3">
 </div>
 
 <style>
@@ -59,7 +64,7 @@ ___
 
 The main use of the website is to explore data using Tableau dynamics graphs.
 
-![TABLEAU_SOFTWARE_LOGOjpg_Logo-1285443519](https://github.com/DRBondyaleJuez/InteractiveVisualizationOfSpanishCisData/assets/98281752/1572a3e6-0cb4-4f66-9036-0a8d18f973f8)
+![tableau_logo](https://github.com/DRBondyaleJuez/InteractiveVisualizationOfSpanishCisData/assets/98281752/dac338c8-8a9b-4b63-bc05-9e0ebeac8aad)
 
 The Tableau dashboard is dynamic and interactive. The information in the survey was to large for one single dashboard so it is divided amongst 4 dashboard and the user can navigate between them using the buttons in the top section.
 
