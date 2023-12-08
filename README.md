@@ -25,7 +25,7 @@ The survey stores collects some personal information of the person surveyed such
 
 The survey is anonymous so the identity of the respondents is not present.
 
-Example of a page of the survey:
+__Example of a page of the survey:__
 
 ![survey1](https://github.com/DRBondyaleJuez/InteractiveVisualizationOfSpanishCisData/assets/98281752/b0f7a932-5e23-4246-9b2b-b21abf9feef3)
 
