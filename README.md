@@ -15,9 +15,7 @@ The website is in spanish because it worked with spanish socialogical data.
 
 ### __DATA:__
 
-<div style="text-align: center;">
 ![logo_cis](https://github.com/DRBondyaleJuez/InteractiveVisualizationOfSpanishCisData/assets/98281752/45f36728-4c02-4038-90c3-893d7904973e)
-</div>
 
 The data was obtained from the spanish center for sociological research [(CIS)](https://www.cis.es/detalle-ficha-estudio?origen=estudio&idEstudio=14757). CIS performs monthly surveys to the spanish population regarding sociological and political issues. Precisely , in this case, these are the results of the November 2023 survey. 
 
@@ -30,6 +28,29 @@ The survey is anonymous so the identity of the respondents is not present.
 Example of a page of the survey:
 
 
+<div class="image-carousel">
+  <img src="image1.jpg" alt="Image 1">
+  <img src="image2.jpg" alt="Image 2">
+  <img src="image3.jpg" alt="Image 3">
+</div>
+
+<style>
+  .image-carousel {
+    display: flex;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+  }
+
+  img {
+    flex: 0 0 auto;
+    width: 100%;
+    scroll-snap-align: start;
+  }
+</style>
+
+
+
+
 
 ___
 ___
@@ -38,9 +59,7 @@ ___
 
 The main use of the website is to explore data using Tableau dynamics graphs.
 
-<div style="text-align: center;">
 ![TABLEAU_SOFTWARE_LOGOjpg_Logo-1285443519](https://github.com/DRBondyaleJuez/InteractiveVisualizationOfSpanishCisData/assets/98281752/1572a3e6-0cb4-4f66-9036-0a8d18f973f8)
-</div>
 
 The Tableau dashboard is dynamic and interactive. The information in the survey was to large for one single dashboard so it is divided amongst 4 dashboard and the user can navigate between them using the buttons in the top section.
 
