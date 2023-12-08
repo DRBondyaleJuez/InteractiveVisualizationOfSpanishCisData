@@ -50,7 +50,8 @@ body {
     padding: 2%;
     background-color: #001689;
     display: flex;
-    flex-flow: wrap;
+    flex-flow: row wrap;
+
 }
 
 .introduction {
@@ -60,6 +61,7 @@ body {
     color: white;
     font-size: 2.5vmin;
     text-align: justify;
+    min-width: 50vmin;
 }
 
 .introduction p {
@@ -87,14 +89,17 @@ body {
 
 }
 
+
+
 .cis_logo_container {
     display: flex;
     align-items: center;
     justify-content: left;
+    width: 50vmin;
 }
 
 .cis_logo {
-    width: 50vmin;
+    width: 90%;
 }
 
 .sources_title {
