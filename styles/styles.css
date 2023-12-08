@@ -59,6 +59,7 @@ body {
     min-width: 250px;
     color: white;
     font-size: 2.5vmin;
+    text-align: justify;
 }
 
 .introduction p {
