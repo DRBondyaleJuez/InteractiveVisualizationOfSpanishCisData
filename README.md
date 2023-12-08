@@ -82,7 +82,7 @@ This can be combined.
 
 It must be kept in mind that the number of respondents reduces with every filtration so they can become less representative.
 
-The site can be visited [(here)](https://drbondyalejuez.github.io/TheClickingGame/index.html).
+The site can be visited [(here)](https://drbondyalejuez.github.io/InteractiveVisualizationOfSpanishCisData/).
 
 
 ___
